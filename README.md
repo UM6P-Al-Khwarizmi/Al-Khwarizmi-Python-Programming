@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UM6P/Al-Khwarizmi-Python-Programming/HEAD)
+
 # General remarks
 
 If you want to use these notebooks on your local machine, you will need to install the follwoing requirements first. In your terminal, run
